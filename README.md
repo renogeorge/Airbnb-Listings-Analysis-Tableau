@@ -34,8 +34,7 @@ This project focuses on exploring and analyzing Airbnb listing data using Micros
 
 ## Dashboard Preview
 
-Dashboard screenshots will be added here.
-
+![Airbnb Tableau Dashboard](Screenshots/dashboard-overview.png)
 ## Key Insights
 
 Key findings and observations from the Tableau dashboard will be documented here.
